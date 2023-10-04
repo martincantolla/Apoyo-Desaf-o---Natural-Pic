@@ -1,13 +1,1 @@
-# React + Vite
-
-## Install
-
-```bash
-npm install
-```
-
-## Run
-
-```bash
-npm run dev
-```
+Practice project where I used Context to fetch some API data and provide access to the data to multiple components.
